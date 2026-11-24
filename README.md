@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+A lightning-fast 1–3 player co-op roguelite from the creators of Dead Cells. DASH, DIVE and DESTROY across a shattered world. Build wild loadouts, unleash devastating Alterattacks, and become the last stand against the Vortex.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 version 21H1 (build 19043) or newer, Windows… | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i5 6th gen / AMD FX 8XXX / Rec: Intel Core i7 8th gen / Ryzen 7 1st gen | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: Nvidia GeForce GTX 970 / AMD Radeon RX 570 / Rec: Nvidia GeForce GTX 1070 / AMD RX 590 | Metal-capable GPU |
+| **Storage** | 4 GB available space | 4 GB available space |
 
 ---
 
